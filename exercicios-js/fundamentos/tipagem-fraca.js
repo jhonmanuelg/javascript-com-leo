@@ -1,4 +1,4 @@
-//Tipagem fraca mas significa que no tenga tipo.
+//Tipagem fraca mas não significa que no tenga tipo.
 let qualquer = 'legal';
 console.log(qualquer);
 console.log(typeof qualquer);
