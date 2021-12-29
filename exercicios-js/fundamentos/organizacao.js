@@ -17,3 +17,6 @@ console.log("sentencia de codigo");
 
 /*javascript esta orgamisado em sentencia de codigo pode o no tener punto y virbola 
 tamben son limitado por chave en bloco*/
+
+
+
