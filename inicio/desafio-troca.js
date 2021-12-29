@@ -2,8 +2,8 @@
 
 let a = 7;
 let b = 94;
-console.log("bariable a = 7 es " + a);
-console.log("bariable b = 94 es " + b);
+console.log("bariable a es " + a);
+console.log("bariable b es " + b);
 
 
 a = 94;
