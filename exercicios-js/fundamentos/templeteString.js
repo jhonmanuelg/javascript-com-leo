@@ -1,4 +1,4 @@
-//son cadenas literales de texto incrustadas en el código fuente que permiten su interpolación mediante expresiones 
+// usando templete strings son cadenas literales de texto incrustadas en el código fuente que permiten su interpolación mediante expresiones 
 
 const nome = 'Rebeca'; 
 const concatenacao = 'Olá ' + nome + '!';
