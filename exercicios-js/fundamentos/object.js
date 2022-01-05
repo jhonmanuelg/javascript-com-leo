@@ -1,4 +1,4 @@
-//basico de como crear Object
+//basico de como crear Object uma coleçao de chave e valor
 
 const prod1 = {};
 prod1.nome = 'celular ultra mega';
