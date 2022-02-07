@@ -20,3 +20,4 @@ Su sintaxis es sencilla y consta de dos aspectos fundamentales:
 Se utilizan las comillas invertidas (`) para delimitar las cadenas
 Para añadir marcadores de posición (o placeholders) utilizamos el signo de dolar ($) seguido de llaves
 */
+

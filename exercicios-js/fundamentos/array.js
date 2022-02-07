@@ -13,8 +13,14 @@ console.log(valores.length);
 valores.push({id: 3}, false, null, 'teste');
 console.log(valores);
 
-console.log(valores.pop());
-delete valores[0]
-console.log(valores);
+// console.log(valores.pop());
+// delete valores[0]
+// console.log(valores);
 
-console.log(typeof valores);
+// console.log(typeof valores);
+var elemento = document.querySelector('Olá mundo'); // 
+elemento.addEventListener('Olá mundo', function () { // 
+  alert('Olá mundo'); // 
+});
+
+
