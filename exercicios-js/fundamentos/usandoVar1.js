@@ -1,3 +1,4 @@
+//usando VAR siempre devemos ivitar usar de forma gloval
 {
   {
     {
