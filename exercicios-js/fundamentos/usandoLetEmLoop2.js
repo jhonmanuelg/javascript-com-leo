@@ -1,11 +1,12 @@
-//usando var em loop #2
+//usando let em loop #2
 
-var funcs = []
-for (var i = 0; i < 10; i++){
+const funcs = []
+for (let i = 0; i < 10; i++){
     funcs.push(function(){
         console.log(i)
     })
 }
 
 funcs[2]()
+funcs[6]()
 funcs[8]() 

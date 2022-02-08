@@ -1,3 +1,8 @@
+
+/* unsando let em LOOP permite que você declare variáveis limitando seu escopo no bloco, 
+instrução, ou em uma expressão na qual ela é usada.
+
+*/
 for (let i = 0; i < 4; i++) {
     console.log(i)
     // more statements
@@ -18,3 +23,4 @@ if (a === 5) {
 
 console.log(a); // 5
 console.log(b); // 1
+
