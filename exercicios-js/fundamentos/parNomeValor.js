@@ -1,3 +1,5 @@
+//Par nome valor
+
 const saudacao = "Opa"; // contexto lexico 1
 
 function exec() {
