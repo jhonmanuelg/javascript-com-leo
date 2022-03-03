@@ -1,4 +1,9 @@
 //operador Ternario
+/*
+O operador (ternário) é o único operador JavaScript que possui três operadores.
+ Este operador é frequentemente usado como um atalho para instrução if.
+
+*/
 
 const resultado = nota => nota >= 7 ? 'aprovado' : 'reprobado';
 console.log(resultado(8.3))
@@ -10,12 +15,3 @@ var firstCheck = false,
 
 console.log( access ); // logs "Access granted"
 
-var stop = false, age = 23;
-
-age > 18 ? (
-    alert("OK, you can go."),
-    location.assign("continue.html")
-) : (
-    stop = true,
-    alert("Sorry, you are much too young!")
-);
