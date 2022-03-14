@@ -1,4 +1,4 @@
-// Usado estruturas de controles IF, ELSE, IF.
+// Usado estruturas de controles com seleçao multipla IF, ELSE, IF.
 
 
 Number.prototype.entre = function (inicio, fim){
