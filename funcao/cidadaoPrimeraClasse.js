@@ -41,3 +41,4 @@ function soma (a, b){
 soma(3, 6,)(7);
 const cincoMais = soma(3, 7)
 cincoMais(6)
+
