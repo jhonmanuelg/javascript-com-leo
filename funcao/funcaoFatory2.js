@@ -1,3 +1,5 @@
+
+// funçao fatory #2
 function criarProduto(nome, preco){
     return{
         nome,
