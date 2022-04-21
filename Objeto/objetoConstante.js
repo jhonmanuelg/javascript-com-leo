@@ -16,3 +16,6 @@ console.log(pessoa)
 delete pessoa.nome
 console.log(pessoa.nome)
 
+const pessoaConstante = Object.freeze({nome: 'jose'})
+pessoaConstante.nome = 'maria'
+console.log(pessoaConstante)
